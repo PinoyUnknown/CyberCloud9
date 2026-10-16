@@ -1,8 +1,12 @@
 [README.md](https://github.com/user-attachments/files/33581584/README.md)
-# CyberCloud9# 🛡️ CyberCloud9 & Cyber Intelligence Suite. Developed by PinoyUnknown ~ TeamWhiteHatDev
+# CyberCloud9#  CyberCloud9 & Cyber Intelligence Suite. Developed by PinoyUnknown ~ TeamWhiteHatDev
+
+<img width="1924" height="1092" alt="version 1" src="https://github.com/user-attachments/assets/73d60cf7-5bd2-480a-8e20-e7f6c493c621" />
+
+
 
 [![Theme](https://img.shields.io/badge/Theme-CyberSecurityPro--Theme_v2.2.0_(12_Animated_Themes)-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://github.com/PinoyUnknown/CyberCloud9)
-[![Security Posture](https://img.shields.io/badge/Posture-100%25_Defensive_%26_Non--Invasive-00F0FF?style=for-the-badge)](https://github.com/PinoyUnknown/CyberCloud9)
+[![Security ](https://img.shields.io/badge/Posture-100%25_Defensive_%26_Non--Invasive-00F0FF?style=for-the-badge)](https://github.com/PinoyUnknown/CyberCloud9)
 [![Developer](https://img.shields.io/badge/Developer-PinoyUnknown_~_TeamWhiteHatDev-FF9D42?style=for-the-badge)](https://github.com/unidentifiedcyberghost)
 [![Python](https://img.shields.io/badge/Python-3.10%2B_%7C_PyQt6_HUD-00FF88?style=for-the-badge&logo=python)](https://github.com/PinoyUnknown/CyberCloud9)
 
